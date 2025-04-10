@@ -10,7 +10,7 @@ Library: D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data
 --linker-options=PdbAltPath="VR Room_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\Burst
---key-folder=D:/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Library\Burst
 --output=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -88,7 +88,7 @@ Library: D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data
 --linker-options=PdbAltPath="VR Room_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\Burst
---key-folder=D:/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Library\Burst
 --output=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -168,7 +168,7 @@ Library: D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data
 --linker-options=PdbAltPath="VR Room_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\Burst
---key-folder=D:/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Library\Burst
 --output=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -188,7 +188,7 @@ Library: D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data
 --linker-options=PdbAltPath="VR Room_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\Burst
---key-folder=D:/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Library\Burst
 --output=D:\Unity Projects\CST1160-VR-Game\VR Room - Aryan\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
